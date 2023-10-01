@@ -1,6 +1,6 @@
 # Gold Price 💰
 
-In this Jupyter notebook, predictive analytics study was performed on a given data set which consists of the troy ounce gold prices over time horizon.
+In this notebook, predictive analytics study was performed on a given data set which consists of the troy ounce gold prices over time horizon.
 
 The breakdown of the study is as below:
 
